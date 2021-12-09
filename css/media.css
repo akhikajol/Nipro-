@@ -1,0 +1,106 @@
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 320px) and (max-width: 575.99px) { 
+    .menu ul li a{
+        padding-left:2px!important;
+        margin-bottom: 5px;
+    }
+    .c-dpm {
+        min-width:280px;
+    }
+    
+    .c-dpm[data-bs-popper] {
+        left: 15px !important;
+    }
+          /* servic part */
+          .s-content h1 {
+            font-size: 40px;
+        }
+        .c-arrow {
+            height: 40px;}
+      
+        .head-1 {
+            padding-bottom: 40px;
+            font-size:26px;
+           
+        }
+        .s-single {
+            margin-top: 35px;
+            padding: 20px 10px 30px;}
+   
+ }
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu ul li a{
+        padding-left:2px!important;
+        margin-bottom:10px;
+    }
+    .c-dpm {
+        min-width:280px;
+    }
+    
+    .c-dpm[data-bs-popper] {
+        left: 15px !important;
+    }
+
+         /* servic part */
+    .s-content h1 {
+        font-size: 40px;
+    }
+    .c-arrow {
+        height: 40px;}
+      
+    }
+    .head-1 {
+        padding-bottom: 40px;
+        font-size:26px;
+       
+    }
+    /* about */
+    .about {
+        padding: 65px 0;
+    }
+ 
+    .ab-text {
+        margin-top: 35px;
+    }
+    .p-1 {
+        line-height: 24px;
+    }
+    .ab-text button {
+        padding: 8px 12px;
+        margin-top: 10px;
+    }
+   
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   
+    .menu ul li a{
+        padding-left:2px!important;
+        margin-bottom:10px;
+    }
+    .c-dpm {
+        min-width:280px;
+    }
+    
+    .c-dpm[data-bs-popper] {
+        left: 15px !important;
+    }
+    /* servic part */
+    .s-content h1 {
+        font-size: 45px;
+    }
+    .head-1 {
+        padding-bottom: 50px;
+        font-size: 28px;
+       
+    }
+  
+  
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
